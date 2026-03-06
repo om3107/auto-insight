@@ -15,7 +15,7 @@ The engine demonstrated remarkable stability when comparing "Good" vs. "Corrupt"
 
 | Metric | Clean Dataset | Corrupt Dataset |
 | :--- | :--- | :--- |
-| **Regression ($R^2$)** | **0.9015** | **0.9056** |
+| **Regression ($R^2$)** | **0.9015** | **0.8805** |
 | **Missing Values Handled** | 0 | 8 |
 | **Clustering Stability** | 0.4500 Silhouette | 0.4500 Silhouette |
 
