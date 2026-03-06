@@ -1,0 +1,8 @@
+# config.py
+MAX_FILE_SIZE_MB = 50
+MAX_ROWS_FULL_LOAD = 20_000
+SAMPLE_ROWS = 10_000
+RANDOM_SEED = 42
+OUTLIER_Z_THRESHOLD = 3.0
+LOG_FILE = "auto_insight.log"
+SUPPORTED_FORMATS = [".csv", ".xlsx", ".json"]
