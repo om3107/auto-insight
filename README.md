@@ -5,21 +5,21 @@ Auto-Insight is a powerful, low-code data science tool designed to transform raw
 
 
 ## 🌟 Key Features
-- [cite_start]**Automated Preprocessing:** Automatically handles missing values, detects outliers, and performs intelligent feature selection[cite: 8, 30].
-- [cite_start]**Multi-Model Engine:** Supports Regression, Clustering, Anomaly Detection, and Time-Series Forecasting in a single run[cite: 10, 14, 17, 20].
-- [cite_start]**Data Resilience:** Built-in logic to handle "corrupt" datasets by automatically dropping noisy columns to maintain high model accuracy[cite: 8, 11].
-- [cite_start]**Professional Reporting:** Generates a comprehensive PDF audit trail of all preprocessing steps and ML metrics[cite: 1, 22].
+- **Automated Preprocessing:** Automatically handles missing values, detects outliers, and performs intelligent feature selection.
+- **Multi-Model Engine:** Supports Regression, Clustering, Anomaly Detection, and Time-Series Forecasting in a single run.
+- **Data Resilience:** Built-in logic to handle "corrupt" datasets by automatically dropping noisy columns to maintain high model accuracy.
+- **Professional Reporting:** Generates a comprehensive PDF audit trail of all preprocessing steps and ML metrics.
 
-## 🧪 Performance & Resilience
-During stress testing, the engine demonstrated remarkable stability when comparing "Good" vs. "Corrupt" data:
+## 🧪 Performance & Resilience (Test Results)
+The engine demonstrated remarkable stability when comparing "Good" vs. "Corrupt" data during testing:
 
 | Metric | Clean Dataset | Corrupt Dataset |
 | :--- | :--- | :--- |
-| **Regression ($R^2$)** | [cite_start]**0.9015** [cite: 33] | [cite_start]**0.9056** [cite: 11] |
-| **Missing Values Handled** | [cite_start]0 [cite: 30] | [cite_start]8 [cite: 8] |
-| **Clustering Stability** | [cite_start]0.4500 Silhouette [cite: 38] | [cite_start]0.4500 Silhouette [cite: 16] |
+| **Regression ($R^2$)** | **0.9015** | **0.9056** |
+| **Missing Values Handled** | 0 | 8 |
+| **Clustering Stability** | 0.4500 Silhouette | 0.4500 Silhouette |
 
-[cite_start]*The engine successfully "salvaged" the corrupt file by identifying and dropping 6 problematic columns, actually improving the $R^2$ score[cite: 8, 11].*
+*Note: The engine successfully salvaged the corrupt file by identifying and dropping 6 problematic columns, which actually improved the model's focus and $R^2$ score.*
 
 ## 🚀 How to Run Locally
 
