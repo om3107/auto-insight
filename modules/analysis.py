@@ -659,4 +659,4 @@ def run_ml_task(df: pd.DataFrame, target_col: str) -> Dict[str, Any]:
     Legacy wrapper around run_regression for backward compatibility.
     """
     return run_regression(df, target_col)
-        raise
+        
