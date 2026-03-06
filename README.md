@@ -23,7 +23,7 @@ The engine demonstrated remarkable stability when comparing "Good" vs. "Corrupt"
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the repository
-```bash
-git clone [https://github.com/om3107/auto-insight.git](https://github.com/om3107/auto-insight.git)
-cd auto-insight
+1. **Install Dependencies:**
+   Make sure you have Python installed, then run:
+   ```bash
+   pip install -r requirements.txt
