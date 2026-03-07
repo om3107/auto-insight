@@ -23,9 +23,7 @@ Auto-Insight is a **no-code analytics platform** that automatically analyzes any
 
 | Data Explorer | Preprocessing |
 |---|---|
-| ![Data Explorer](<img width="1919" height="882" alt="data-explorer png" src="https://github.com/user-attachments/assets/4b1ea412-e07b-406b-8119-660c05ee7793" />
-) | ![Preprocessing](<img width="1916" height="870" alt="preprocessing png" src="https://github.com/user-attachments/assets/d566b0dd-9f31-40cb-9fd8-cd689da39e08" />
-) |
+| ![Data Explorer](<img width="1919" height="882" alt="data-explorer png" src="https://github.com/user-attachments/assets/4b1ea412-e07b-406b-8119-660c05ee7793" />) | ![Preprocessing](<img width="1916" height="870" alt="preprocessing png" src="https://github.com/user-attachments/assets/d566b0dd-9f31-40cb-9fd8-cd689da39e08" />) |
 
 ---
 
