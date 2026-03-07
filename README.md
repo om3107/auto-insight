@@ -1,7 +1,7 @@
 # 🔍 Auto-Insight — Automatic Data Analytics Engine
 > Upload any CSV file and get instant ML-powered insights — no coding required!
 
-[Auto-Insight Banner]<img width="1911" height="723" alt="ml-insights png" src="https://github.com/user-attachments/assets/9dcd5e11-8045-4547-bfe8-1e13d0a7663f" />
+<img width="1911" height="723" alt="ml-insights png" src="https://github.com/user-attachments/assets/9dcd5e11-8045-4547-bfe8-1e13d0a7663f" />
 
 
 ---
